@@ -1,4 +1,4 @@
 # console-screenshot
 
-##Command:
-"http://www.youtube.com" body screenshot.png
+## Command:
+java -jar ("file name").jar "http://www.youtube.com" body screenshot.png
